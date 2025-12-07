@@ -1,0 +1,33 @@
+pandas>=1.5
+numpy
+requests
+python-dotenv
+lightgbm
+scikit-learn
+streamlit
+fastapi
+uvicorn[standard]
+joblib
+pyyaml
+pydantic
+matplotlib
+shap
+optuna
+
+
+# optional (deep learning / graphs)
+torch
+torchvision
+transformers
+pytorch-lightning
+pytorch-forecasting
+pyro4
+
+
+#streamlit
+folium
+streamlit-folium
+
+# production/dev
+gunicorn
+psycopg2-binary
