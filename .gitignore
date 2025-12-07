@@ -1,0 +1,8 @@
+.streamlit/
+data/
+datasets/
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
